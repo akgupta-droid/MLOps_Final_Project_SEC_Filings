@@ -1,0 +1,6 @@
+gradio==5.50.0
+dotenv
+psycopg2-binary==2.9.11
+openai==2.26.0
+numpy==2.2.6
+python-dotenv==1.0.1
