@@ -72,7 +72,7 @@ MLOps_Final_Project_SEC_Filings/
 | Drift Detection | Evidently Cloud |
 | RAG Framework | LangChain |
 | Chatbot UI | Gradio |
-| Deployment | Docker + Azure VM |
+| Deployment | Docker + Azure Container registry + Container App service |
 
 ---
 
